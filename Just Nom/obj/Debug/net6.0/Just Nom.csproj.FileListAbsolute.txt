@@ -1,0 +1,15 @@
+C:\Users\16uch\OneDrive\769116\Just Nom\obj\Debug\net6.0\Just Nom.csproj.AssemblyReference.cache
+C:\Users\16uch\OneDrive\769116\Just Nom\obj\Debug\net6.0\Just Nom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16uch\OneDrive\769116\Just Nom\obj\Debug\net6.0\Just Nom.AssemblyInfoInputs.cache
+C:\Users\16uch\OneDrive\769116\Just Nom\obj\Debug\net6.0\Just Nom.AssemblyInfo.cs
+C:\Users\16uch\OneDrive\769116\Just Nom\obj\Debug\net6.0\Just Nom.csproj.CoreCompileInputs.cache
+C:\Users\16uch\OneDrive\769116\Just Nom\bin\Debug\net6.0\Just Nom.exe
+C:\Users\16uch\OneDrive\769116\Just Nom\bin\Debug\net6.0\Just Nom.deps.json
+C:\Users\16uch\OneDrive\769116\Just Nom\bin\Debug\net6.0\Just Nom.runtimeconfig.json
+C:\Users\16uch\OneDrive\769116\Just Nom\bin\Debug\net6.0\Just Nom.dll
+C:\Users\16uch\OneDrive\769116\Just Nom\bin\Debug\net6.0\Just Nom.pdb
+C:\Users\16uch\OneDrive\769116\Just Nom\obj\Debug\net6.0\Just Nom.dll
+C:\Users\16uch\OneDrive\769116\Just Nom\obj\Debug\net6.0\refint\Just Nom.dll
+C:\Users\16uch\OneDrive\769116\Just Nom\obj\Debug\net6.0\Just Nom.pdb
+C:\Users\16uch\OneDrive\769116\Just Nom\obj\Debug\net6.0\Just Nom.genruntimeconfig.cache
+C:\Users\16uch\OneDrive\769116\Just Nom\obj\Debug\net6.0\ref\Just Nom.dll
